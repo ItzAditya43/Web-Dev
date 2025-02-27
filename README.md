@@ -1,2 +1,3 @@
 At first this was a college work but now I think I will brainstorm on this a bit more....
 Lets see how it goes.
+The main learning from this is github pages.
